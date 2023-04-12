@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107367294026",
+    "project_id": "chatito-c1844",
+    "storage_bucket": "chatito-c1844.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107367294026:android:0f5af56e84ebd45f91b2b3",
+        "android_client_info": {
+          "package_name": "com.example.chatito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107367294026-1bg10m9bfj4qi3jdjh1ctfv3l8o0f8hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPWQAa5jJwc7EKiXq1kSVrWtRvY1tuwkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107367294026-1bg10m9bfj4qi3jdjh1ctfv3l8o0f8hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
